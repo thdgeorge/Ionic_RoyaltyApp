@@ -1,2 +1,2 @@
-# Ionic_RoyaltyApp
-An Ionic Royalty Applicaton.
+# Ionic E-Shop UI
+An Ionic E-Shop UI Applicaton.
